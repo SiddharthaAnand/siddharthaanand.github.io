@@ -1,10 +1,7 @@
-## Developer Portfolio Landing Page Template
+## My Portfolio (fuelled by Coffee day-in and day-out)
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+<img src="images/coffeemug.png"/>
 
-<img src="images/demo.gif?raw=true"/>
-
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
 ___
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
