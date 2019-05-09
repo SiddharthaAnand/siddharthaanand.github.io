@@ -2,32 +2,49 @@
 
 ---
 
-### Category Name 1 
+### IMDB Library
+The library written in python for getting the upcoming movies
+in a month.
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[imdb-wrap](https://test.pypi.org/project/imdb-wrap/)
+<img src="images/hollywood.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Imgur Image Uploader
+A REST API based image uploading service, which uploads
+images to [https://imgur.com/](https://imgur.com/)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+[image-uploading-service](https://github.com/SiddharthaAnand/imgur-image-uploader)
+<img src="images/imgur.jpg?raw=true"/>
 
 ---
 
+### REST API for CS Researchers
+A REST-API created for developers to get the data of computer science researchers, 
+their co-authors and their technical papers.
+[rest-api](https://github.com/SiddharthaAnand/rest-api)
+<img src="images/rest.jpg?raw=true"/>
 
+---
+
+### DBLP spider
+---
+A spider which powers the rest-api services
+provided by my previous project.
+[dblp-spider](https://github.com/SiddharthaAnand/dblp-spider)
+<img src="images/spider.jpg?raw=true"/>
+
+---
+
+### Data structures and Alogirthms
+A repository which stores some common data structure and algorithmic problems
+which I solve from time to time.
+
+---
+[datastructures](https://github.com/SiddharthaAnand/datastructures)
+<img src="images/algorithm.jpg?raw=true"/>
 
 
 ---
