@@ -6,6 +6,7 @@
 The library written in python for getting the upcoming movies
 in a month.
 
+---
 [imdb-wrap](https://test.pypi.org/project/imdb-wrap/)
 <br>
 <img src="images/hollywood.jpg?raw=true"/>
