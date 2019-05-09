@@ -26,6 +26,7 @@ images to [https://imgur.com/](https://imgur.com/)
 ### REST API for CS Researchers
 A REST-API created for developers to get the data of computer science researchers, 
 their co-authors and their technical papers.
+
 ---
 [rest-api](https://github.com/SiddharthaAnand/rest-api)
 <br>
