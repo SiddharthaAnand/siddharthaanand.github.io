@@ -11,7 +11,7 @@ to expand your skills. I have been a technical contributor to this platform.
 ---
 
 ### PYCON-2019
-My [poster talk](https://in.pycon.org/cfp/posters-2019/proposals/creating-your-own-dataset-for-research-using-python~dJMob/) in Pycon-2019 was shortlisted in Chennai, India.
+My [poster talk](https://in.pycon.org/cfp/posters-2019/proposals/creating-your-own-dataset-for-research-using-python~dJMob/) in PyCon-2019 in India.
 <br>
 Yeah! that's me.
 <br>
