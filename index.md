@@ -1,26 +1,23 @@
 ## My portfolio
 
+
+### freeCodeCamp
+A platform where people can learn to code for free. There are coding challenges
+to expand your skills. I have been a technical contributor to this platform.
+
+[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+<br>
+<img src="images/adultleran.jpg?raw=true"/>
 ---
 
 ### IMDB Library
-The library written in python for getting the upcoming movies
+The library written in python for getting upcoming movies
 in a month.
 
 ---
 [imdb-wrap](https://test.pypi.org/project/imdb-wrap/)
 <br>
 <img src="images/hollywood.jpg?raw=true"/>
-
----
-
-### Imgur Image Uploader
-A REST API based image uploading service, which uploads
-images to [https://imgur.com/](https://imgur.com/)
-
----
-[image-uploading-service](https://github.com/SiddharthaAnand/imgur-image-uploader)
-<br>
-<img src="images/imgur.jpg?raw=true"/>
 
 ---
 
@@ -37,7 +34,7 @@ their co-authors and their technical papers.
 
 ### DBLP spider
 A spider which powers the rest-api services
-provided by my previous project.
+provided by [rest-api](https://github.com/SiddharthaAnand/rest-api).
 
 ---
 [dblp-spider](https://github.com/SiddharthaAnand/dblp-spider)
@@ -46,7 +43,7 @@ provided by my previous project.
 
 ---
 
-### Data structures and Alogirthms
+### Data structures and Algorithms
 A repository which stores some common data structure and algorithmic problems
 which I solve from time to time.
 
