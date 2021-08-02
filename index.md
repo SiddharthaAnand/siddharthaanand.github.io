@@ -7,7 +7,7 @@ to expand your skills. I have been a technical contributor to this platform.
 
 [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 <br>
-<img src="images/adultleran.jpg?raw=true"/>
+<img src="images/adultlearn.jpg?raw=true"/>
 ---
 
 ### IMDB Library
