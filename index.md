@@ -10,6 +10,14 @@ to expand your skills. I have been a technical contributor to this platform.
 <img src="images/adultlearn.jpg?raw=true"/>
 ---
 
+### PYCON-2019
+My poster talk in Pycon-2019 was shortlisted in Chennai, India.
+Yeah! that's me.
+[pycon-2019](https://in.pycon.org/cfp/posters-2019/proposals/creating-your-own-dataset-for-research-using-python~dJMob/)
+<br>
+<img src="images/pycon2019posterpresentation.jpeg?raw=true"/>
+---
+
 ### IMDB Library
 The library written in python for getting upcoming movies
 in a month.
